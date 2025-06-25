@@ -8,7 +8,9 @@ This project involves preprocessing the classic Titanic dataset from Kaggle. The
 🗂️ Dataset
 
 Source: Kaggle Titanic
+
 Target Variable: Survived (0 = No, 1 = Yes)
+
 Rows & Columns: 891 rows × 12 columns (after dropping irrelevant features)
 
 🧰 Tools & Libraries Used
