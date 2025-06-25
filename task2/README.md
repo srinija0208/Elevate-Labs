@@ -8,17 +8,17 @@ The goal of this EDA is to uncover patterns and relationships within the Tips da
 
 🔍 Key Insights
 
-Tip vs. Bill: A strong positive correlation exists between the total_bill and tip amount; larger bills generally result in larger tips.
+- Tip vs. Bill: A strong positive correlation exists between the total_bill and tip amount; larger bills generally result in larger tips.
 
-Weekend Popularity: Saturday and Sunday evenings (dinner service) are the busiest times, receiving the highest count of tips. Fridays are the least busy.
+- Weekend Popularity: Saturday and Sunday evenings (dinner service) are the busiest times, receiving the highest count of tips. Fridays are the least busy.
 
-Tipping by Day: While median tips are similar across most days, Sunday shows a slightly higher median tip amount. Saturday has the most high-value tip outliers.
+- Tipping by Day: While median tips are similar across most days, Sunday shows a slightly higher median tip amount. Saturday has the most high-value tip outliers.
 
-Gender & Tips: Males tend to leave a slightly higher average tip, but the difference is not statistically significant.
+- Gender & Tips: Males tend to leave a slightly higher average tip, but the difference is not statistically significant.
 
-Smoking Status: Non-smokers account for a larger proportion of the overall customer base and are more frequently associated with higher total bills and tips.
+- Smoking Status: Non-smokers account for a larger proportion of the overall customer base and are more frequently associated with higher total bills and tips.
 
-Dining Times: The restaurant primarily serves lunch on Thursdays and predominantly dinner on weekends (Saturday & Sunday). Fridays see a mix, with slightly more dinner service.
+- Dining Times: The restaurant primarily serves lunch on Thursdays and predominantly dinner on weekends (Saturday & Sunday). Fridays see a mix, with slightly more dinner service.
 
 🛠️ Tools Used
 
