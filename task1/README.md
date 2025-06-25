@@ -48,7 +48,10 @@ Final cleaned dataset is ready for ML classification models
 
 Handled:
 
-All missing values
-Outliers using robust IQR method
-Categorical encoding
-Feature scaling using StandardScaler
+- All missing values
+  
+- Outliers using robust IQR method
+  
+- Categorical encoding
+  
+- Feature scaling using StandardScaler
