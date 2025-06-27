@@ -41,14 +41,6 @@ This project involves predicting the presence of heart disease using the UCI Hea
 
 ---
 
-## 📁 Project Structure
-
-- `heart_disease_analysis.ipynb` – Full EDA, preprocessing, and model training
-- `README.md` – Project summary and key insights
-- `plots/` – Saved visualizations
-
----
-
 ## 🧠 Conclusion
 
 Logistic regression, combined with proper preprocessing and threshold tuning, gives strong performance in predicting heart disease. Emphasis was placed on **recall** due to the critical need to avoid missing true positive cases in healthcare applications.
